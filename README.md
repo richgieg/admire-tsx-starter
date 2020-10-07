@@ -1,4 +1,4 @@
-# admire-starter
+# admire-tsx-starter
 
 Starter project for static website using Admire with TSX add-on
 
