@@ -7,7 +7,7 @@ export default () =>
     <head></head>
     <body>
         { Navigation() }
-        <h1>welcome</h1>
+        <h1>Welcome</h1>
         <div>hello world</div>
     </body>
 </html>
